@@ -4,12 +4,13 @@ body {
 }
 
 .profile {
-    width: 175px;
+    width: 350px;
     margin-bottom: 50px;
     border-radius: 50%;
 }
 
 #welcome {
+text-align: center;
     position: absolute;
     height: 800px;
     color: #FFFFFF;
